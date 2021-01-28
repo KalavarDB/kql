@@ -3,7 +3,7 @@ has_children: false
 layout: default
 title: Tables
 parent: Syntax
-nav_order: 1
+nav_order: 2
 ---
 
 # Tables

@@ -2,7 +2,7 @@
 has_children: false
 layout: default
 title: F.A.Q
-nav_order: 1
+nav_order: 3
 ---
 
 # F.A.Q.

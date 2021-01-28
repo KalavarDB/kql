@@ -1,0 +1,6 @@
+[book]
+authors = ["fatalcenturion"]
+language = "en"
+multilingual = false
+src = "book-src"
+title = "Kalavar Query Language (KQL)"

@@ -1,5 +1,5 @@
 ---
-has_children: true
+has_children: false
 layout: default
 title: Documentation
 nav_order: 1

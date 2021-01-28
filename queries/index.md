@@ -2,8 +2,7 @@
 has_children: true
 layout: default
 title: Sample Queries
-parent: Documentation
-nav_order: 1
+nav_order: 2
 ---
 # Sample Queries
 

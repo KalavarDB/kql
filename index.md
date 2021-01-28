@@ -1,7 +1,7 @@
 ---
 has_children: false
 layout: default
-title: Documentation
+title: Home
 nav_order: 1
 ---
 # KQL

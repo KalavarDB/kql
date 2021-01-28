@@ -14,7 +14,7 @@ Generates a UUID (uses version 4)
 
 |Name|Arguments|Returns|
 |:---:|:---:|:---:|
-|Reverse|`text`|[String](https://kalavar.cf/documentation/data-types/string/)|
+|uuid|Not Applicable|[UUID](https://kalavar.cf/documentation/data-types/uuid/)|
 
 ### Arguments
 > This method does not take any arguments

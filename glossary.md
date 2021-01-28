@@ -21,7 +21,8 @@ Definitions of terms which are used through the documentation, but not immediate
 > No current definitions
 
 # E
-- Ephemeral: "To exist for a small amount of time" {#ephemeral}
+- ### Ephemeral {#ephemeral}
+    - "Lasting for a very short time."
     - The data lasts for the lifetime associated with it, and is not written to a more permanent storage type
 
 # F

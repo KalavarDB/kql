@@ -2,7 +2,8 @@
 has_children: false
 layout: default
 title: Pruning Data
-parent: Sample Queries
+parent: Basic Queries
+grand_parent: Syntax
 nav_order: 5
 ---
 

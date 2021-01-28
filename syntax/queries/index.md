@@ -1,8 +1,9 @@
 ---
 has_children: true
 layout: default
-title: Sample Queries
-nav_order: 2
+title: Basic Queries
+parent: Syntax
+nav_order: 1
 ---
 # Sample Queries
 

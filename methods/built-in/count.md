@@ -10,9 +10,18 @@ nav_order: 1
 Counts the number of items matching a filter from a table
 
 ## Overview
+### Quick Look
+
 |Name|Arguments|Returns|
 |:---:|:---:|:---:|
-|Count|`Filter`|Unsigned Integer|
+|Count|`filter`|[Unsigned Integer](https://kalavar.cf/documentation/data-types/integer/)|
+
+### Arguments
+
+|Name|Example|Required|
+|:---:|:---:|:---:|
+|`filter`|`FILTER email == "member@example.com"`|<img src="https://kalavar.cf/assets/images/tick.png" width="30px" height="30px" alt="✅"/>|
+
 
 ## Example
 ```

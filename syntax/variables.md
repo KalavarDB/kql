@@ -12,4 +12,4 @@ KQL supports 3 different types of variables, public variables, private variables
 
 
 ### Public Variables
-A public variable can be read, written, and removed by any connection at any time. These values are [ephemeral](/glossary#ephemeral-data) meaning they disappear when the database closes for any reason
+A public variable can be read, written, and removed by any connection at any time. These values are [ephemeral](/glossary#ephemeral) meaning they disappear when the database closes for any reason

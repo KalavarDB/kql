@@ -1,20 +1,20 @@
 ---
 has_children: false
 layout: default
-title: Upper
+title: Reverse
 parent: Built-in Methods
 grand_parent: Methods
-nav_order: 5
+nav_order: 6
 ---
-# Upper
-Converts text to its uppercase equivalent
+# Reverse
+Reverses the position for all characters in a given string
 
 ## Overview
 ### Quick Look
 
 |Name|Arguments|Returns|
 |:---:|:---:|:---:|
-|Upper|`text`|[String](https://kalavar.cf/documentation/data-types/string/)|
+|Reverse|`text`|[String](https://kalavar.cf/documentation/data-types/string/)|
 
 ### Arguments
 
@@ -25,14 +25,14 @@ Converts text to its uppercase equivalent
 
 ## Example
 ```
-GET upper("hello, world!")
+GET reverse("hello, world!")
 ```
 The above example would return a table which looks a little like this:
 
 ```
 +---------------------+
-|        upper        |
+|       reverse       |
 +---------------------+
-|   "HELLO, WORLD!"   |
+|   "!dlrow ,olleh"   |
 +---------------------+
 ```

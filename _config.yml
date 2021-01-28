@@ -3,8 +3,8 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: light
 title: KQL
 description: A powerful query language written to fix the shortcomings of SQL
-logo: "https://kalavar.cf/assets/images/word_banner_transparent.png"
-image: "https://kalavar.cf/assets/images/word_banner_transparent.png"
+logo: "/assets/images/word_banner_transparent.png"
+image: "/assets/images/word_banner_transparent.png"
 
 permalink: pretty
 search_enabled: true
@@ -21,13 +21,13 @@ heading_anchors: true
 
 aux_links:
   "View Repository":
-    - "https://github.com/KalavarDB/core"
+    - "//github.com/KalavarDB/core"
   "<!-- <img width=\"45px\" height=\"45px\" src=\"https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg\"/> --> Join the Discord":
-    - "https://discord.gg/jUGS8UsgUF"
+    - "//discord.gg/jUGS8UsgUF"
   "Suggestions":
-    - "https://forms.gle/CtU4Ak92MWk2kNg49"
+    - "//forms.gle/CtU4Ak92MWk2kNg49"
   "Development":
-    - "https://dev.kalavar.cf"
+    - "//dev.kalavar.cf"
 
 aux_links_new_tab: true
 
@@ -42,7 +42,7 @@ compress_html:
   clippings: all
   comments: all
   endings: all
-  startings: []
+  startings: [ ]
   blanklines: false
   profile: false
 

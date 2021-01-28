@@ -3,8 +3,8 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: light
 title: KQL
 description: A powerful query language written to fix the shortcomings of SQL
-logo: "/assets/images/word_banner_transparent.png"
-image: "/assets/images/word_banner_transparent.png"
+logo: "https://kql.kalavar.cf/assets/images/word_banner_transparent.png"
+image: "https://kql.kalavar.cf/assets/images/word_banner_transparent.png"
 
 permalink: pretty
 search_enabled: true

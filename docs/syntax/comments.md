@@ -3,7 +3,7 @@ has_children: false
 layout: default
 title: Comments
 parent: Syntax
-nav_order: 3
+nav_order: 5
 ---
 
 # Comments
